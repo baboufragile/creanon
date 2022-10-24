@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 20px;
+    margin:auto;
+}
+button{
+    width: 30%;
+}
+/* .logoInstagram {
+background: url(../logo/Instagram_logo.png);
+width: 775px;
+height: 775px;
+}
+.logoTwitter {
+    background: url(../logo/580b57fcd9996e24bc43c53e.png);
+    width: 100px;
+    height: 100px;
+} */
